@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+ .header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+    height:250px;
+    background-image: url(anime\ food.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 250px;
+    }
+ .tittle{
+    color: blue;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 30px;
+    border: 20px;
+    border-color: black;
+    padding: auto;
+    
+
+    
+ }
+ .head{
+    text-align: center;
+    color: black;
+ }
+ .text{
+    text-align: center;
+    background-color: yellowgreen;
+    height: 100px;
+    
+ }
+ #use{
+    margin: 20px;
+ }
+ img{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 450px;
+ }
+ .food-items{
+    font-size: larger;
+    text-align: center;
+    background-color: black;
+    color: #ddd;
+    margin: 5px;
+    border: white;
+    border-radius: 20px;
+
+
+
+ }
+ .food{
+    margin: 50px;
+    border: white;
+    padding: 20px;
+
+
+ }
+ #last{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bolder;
+    background-color: yellowgreen;
+    height: 50px;
+    justify-content: center;
+    
+ }
+ .dash{
+    text-align: center;
+    color: white;
+    background-color: cadetblue;
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+    
+
+
+ }
+ #sub{
+    color: blue;
+    background-color: aqua;
+    font-size: 20px;
+    margin: 8px;
+    
+ }
+
+
